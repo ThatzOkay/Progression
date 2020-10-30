@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading;
-
-namespace Progression.Tests
+﻿namespace Progression.Tests
 {
     class Program
     {
